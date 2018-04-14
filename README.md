@@ -9,7 +9,7 @@
   
 # Gameplay Demo 
 
-[![Demo](http://img.youtube.com/vi/UsSnFARt6B0/0.jpg)](http://www.youtube.com/watch?v=UsSnFARt6B0 "Demo")
+[![Demo](gameplay-general.png)](http://www.youtube.com/watch?v=UsSnFARt6B0 "Demo")
 
   
 # Notes
